@@ -1,0 +1,19 @@
+body{
+
+    margin: 0 auto;
+    max-width: 50em;
+
+    line-height: 1.4
+    padding 4em 1em;
+
+    font-family: "Helvetica Neue", sans-serif;
+    
+
+    color:#555;
+}
+
+h1{
+    color: blue;
+    padding-top: 1em 4em;
+    text-align: center;
+}
